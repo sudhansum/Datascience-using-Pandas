@@ -1,0 +1,22 @@
+{
+ "medical":
+     { "men":[{"name": "Arjun","level": 113},
+
+             { "name": "ram","level": 98},
+             { "name":"laxman","level":100},
+             { "name": "surya","level": 150},
+             { "name":"cheeku","level": 160},
+             { "name":"tarun","level":132},
+             { "name": "anil","level":120},
+             { "name":"ajay","level":110},
+             { "name": "shiva","level":180}
+             ],
+     "women":[  { "name": "hema","level": 90},
+                { "name":"shreya","level":105},
+                { "name":"ria","level":125},
+                { "name":"tania","level":160},
+                { "name":"leela","level":180},
+                { "name": "tina","level":190},
+                { "name": "sasa","level": 135}
+
+     ] }}
