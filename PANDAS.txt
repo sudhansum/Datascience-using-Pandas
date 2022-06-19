@@ -1,0 +1,6 @@
+Welcome to Data Science and AI 
+
+Installation of Pandas 
+Numpy 
+Series 
+Pandas
